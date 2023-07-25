@@ -31,3 +31,7 @@
 
 en:
   hello: "Hello world"
+ja:
+  user_mailer:
+    welcome:
+      subject: "Inscription terminée"
